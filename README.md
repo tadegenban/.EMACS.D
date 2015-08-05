@@ -1,3 +1,7 @@
+# README
+forked from https://github.com/redguardtoo/emacs.d
+below is original author's readme
+
 # Warning
 * I'm using [Vim](http://www.vim.org) key binding. Please see "Tips" section for restoring the Emacs key binding.
 * People in Mainland China may need [goagent](http://code.google.com/p/goagent/) to download packages from ELPA. Run command "http_proxy=http://127.0.0.1:8087 emacs -nw" after starting goagent server.
